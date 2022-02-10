@@ -184,5 +184,8 @@
         },
         "id": 13
       }
+    ],
+    "contacts": [
+      { "id": 1, "name": "John Doe", "phone": "1-463-123-4447", "email": "john.doe@example.com"}
     ]
   }
