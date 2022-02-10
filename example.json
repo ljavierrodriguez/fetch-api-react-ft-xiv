@@ -1,0 +1,9 @@
+{
+    "user": {
+        "name": "Luis",
+        "lastname": "Rodriguez",
+        "age": 40,
+        "gender": "Male"
+    },
+    "title": "Fetch API React"
+}
